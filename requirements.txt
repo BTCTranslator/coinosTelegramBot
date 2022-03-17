@@ -1,0 +1,16 @@
+APScheduler==3.6.3
+base58==2.1.1
+bech32==1.2.0
+bitstring==3.1.9
+ecdsa==0.17.0
+Pillow==9.0.1
+python_telegram_bot==13.10
+python_telegram_bot_pagination==0.0.2
+pyzbar==0.1.8
+qrcode==7.3.1
+requests==2.26.0
+SQLAlchemy==1.4.31
+telegram==0.0.1
+ujson==5.1.0
+urllib3==1.23
+psycopg2==2.9.3 
